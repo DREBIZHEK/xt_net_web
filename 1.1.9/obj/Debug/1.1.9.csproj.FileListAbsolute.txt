@@ -1,0 +1,6 @@
+C:\Users\bogda\source\repos\xt_net_web\1.1.9\bin\Debug\1.1.9.exe.config
+C:\Users\bogda\source\repos\xt_net_web\1.1.9\bin\Debug\1.1.9.exe
+C:\Users\bogda\source\repos\xt_net_web\1.1.9\bin\Debug\1.1.9.pdb
+C:\Users\bogda\source\repos\xt_net_web\1.1.9\obj\Debug\1.1.9.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\xt_net_web\1.1.9\obj\Debug\1.1.9.exe
+C:\Users\bogda\source\repos\xt_net_web\1.1.9\obj\Debug\1.1.9.pdb
