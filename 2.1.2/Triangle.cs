@@ -2,7 +2,7 @@
 
 namespace _2._1._2
 {
-	public class Triangle : Figure
+	public class Triangle : Figure, IAreaFigure
 	{
 		private Line sideA;
 		private Line sideB;
@@ -30,7 +30,7 @@ namespace _2._1._2
 		}
 
 		public double Perimeter() => perimeter;
-		public override double Area() => area;
+		public double Area() => area;
 
 		public override void Show()
 		{

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2._2._1
 {
-	class Item
+	class Item : GameObject
 	{
 		private int positionX;
 		private int positionY;

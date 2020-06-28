@@ -3,7 +3,6 @@
 	public abstract class Figure
 	{
 		protected double centreX, centreY;
-		public abstract double Area();
 		public abstract void Show();
 	}
 }

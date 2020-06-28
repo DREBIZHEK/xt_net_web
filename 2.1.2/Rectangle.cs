@@ -2,7 +2,7 @@
 
 namespace _2._1._2
 {
-	public class Rectangle : Figure
+	public class Rectangle : Figure, IAreaFigure
 	{
 		protected Line sideA;
 		protected Line sideB;
@@ -20,7 +20,7 @@ namespace _2._1._2
 			sideA = new Line(0, 0, 0, 0);
 			sideB = new Line(0, 0, 0, 0);
 		}
-		public override double Area() => sideA.Length * sideB.Length;
+		public double Area() => sideA.Length * sideB.Length;
 
 		public virtual double Perimeter() => sideA.Length * 2 + sideB.Length * 2;
 

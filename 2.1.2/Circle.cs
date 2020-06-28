@@ -2,7 +2,7 @@
 
 namespace _2._1._2
 {
-	public class Circle : Figure
+	public class Circle : Figure, IAreaFigure
 	{
 		protected double radius;
 
@@ -14,7 +14,7 @@ namespace _2._1._2
 		}
 
 		public double Circumference() => 2 * Math.PI * radius;
-		public override double Area() => Math.PI * Math.Pow(radius, 2);
+		public double Area() => Math.PI * Math.Pow(radius, 2);
 
 		public override void Show()
 		{

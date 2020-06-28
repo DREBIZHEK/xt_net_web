@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _2._2._1
 {
-	class Player
+	class Player : GameObject
 	{
 		private int positionX;
 		private int positionY;

@@ -23,10 +23,5 @@ namespace _2._1._2
 				$"\nLength: {Math.Round(Length, 2)}" +
 				$"\n");
 		}
-
-		public override double Area()
-		{
-			throw new NotImplementedException();
-		}
 	}
 }
