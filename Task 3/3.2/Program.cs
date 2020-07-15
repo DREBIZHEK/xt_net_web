@@ -16,10 +16,5 @@ namespace _3._2
 				array.Add(i + 2);
 			}
 			Console.WriteLine(array[22]);
-			foreach (var item in array)
-			{
-				Console.WriteLine(item);
-			}
-		}
 	}
 }
