@@ -1,0 +1,7 @@
+D:\xt_net_web-master\Task 3\3.3.1\bin\Debug\3.3.1.exe.config
+D:\xt_net_web-master\Task 3\3.3.1\bin\Debug\3.3.1.exe
+D:\xt_net_web-master\Task 3\3.3.1\bin\Debug\3.3.1.pdb
+D:\xt_net_web-master\Task 3\3.3.1\obj\Debug\3.3.1.csprojAssemblyReference.cache
+D:\xt_net_web-master\Task 3\3.3.1\obj\Debug\3.3.1.csproj.CoreCompileInputs.cache
+D:\xt_net_web-master\Task 3\3.3.1\obj\Debug\3.3.1.exe
+D:\xt_net_web-master\Task 3\3.3.1\obj\Debug\3.3.1.pdb
