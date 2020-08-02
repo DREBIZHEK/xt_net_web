@@ -1,0 +1,7 @@
+D:\xt_net_web-master\Task 4\Task 4\Task 4.1\bin\Release\Task 4.1.exe.config
+D:\xt_net_web-master\Task 4\Task 4\Task 4.1\bin\Release\Task 4.1.exe
+D:\xt_net_web-master\Task 4\Task 4\Task 4.1\bin\Release\Task 4.1.pdb
+D:\xt_net_web-master\Task 4\Task 4\Task 4.1\obj\Release\Task 4.1.csprojAssemblyReference.cache
+D:\xt_net_web-master\Task 4\Task 4\Task 4.1\obj\Release\Task 4.1.csproj.CoreCompileInputs.cache
+D:\xt_net_web-master\Task 4\Task 4\Task 4.1\obj\Release\Task 4.1.exe
+D:\xt_net_web-master\Task 4\Task 4\Task 4.1\obj\Release\Task 4.1.pdb
