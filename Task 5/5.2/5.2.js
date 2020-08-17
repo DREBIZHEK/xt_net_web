@@ -9,14 +9,9 @@ splitedExpression.forEach(element => {
         newSplitedExpression.push(element);
     }
 });
-console.log(newSplitedExpression);
 
 function MathCalculator(expression) {
-
-    console.log(newSplitedExpression)
     while (newSplitedExpression.length != 1) {
-        console.log('\nnewSplitedExpression:\n', newSplitedExpression)
-
         for (var index = 0; newSplitedExpression.length != 1; index++) {
             if (newSplitedExpression[index] === '*') {
                 splitedExpression = [];
@@ -38,15 +33,10 @@ function MathCalculator(expression) {
             }
             else if (newSplitedExpression[index] === '/' && newSplitedExpression[index] != '-') {
                 splitedExpression = [];
-                console.log('0MASS:\n', newSplitedExpression)
-                console.log('0ELEMENT:\n', newSplitedExpression[index])
-                console.log('0ELEMENT:\n', newSplitedExpression[index])
+                
                 newSplitedExpression[index] = parseFloat(newSplitedExpression[index - 1]) / parseFloat(newSplitedExpression[index + 1])
                 newSplitedExpression[index - 1] = null;
                 newSplitedExpression[index + 1] = null;
-
-                console.log('MASS: ', newSplitedExpression)
-                console.log('ELEMENT: ', newSplitedExpression[index])
 
                 newSplitedExpression.forEach(element => {
                     if (element != null) {
