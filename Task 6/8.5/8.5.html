@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="8.5.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="mainConteiner">
+        <div id="header">
+            <div class="headerLine"></div>
+            <div class="search">
+                <img class="searchIcon" src="icons/magnifying-glass.png" alt="">
+                <input class="searchField" type="search" name="search" placeholder="Поиск">
+            </div>
+            <div class="headerLine"></div>
+        </div>
+        <div>
+            <button class="addButton" id="addButton">
+                    <img class="addIcon" src="icons/plus.png" alt="">
+            </button>
+        </div>
+    </div>
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close">×</span>
+                <h2>Новая заметка</h2>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <input class="headerInput" type="text" id="headerInput" placeholder="Заголовок" required>
+                </div>
+                <div>
+                    <textarea class="textInput" id="textInput" placeholder="Заметка" cols="30" rows="10" required></textarea>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="acceptButton" id="acceptButton">
+                    <img class="acceptIcon" src="icons/accept.png" alt="">
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="8.5.js"></script>
+</body>
+
+</html>
