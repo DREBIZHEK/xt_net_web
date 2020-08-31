@@ -58,6 +58,13 @@ document.onclick = function(event) {
         var id = node.id;
         id = id.replace("deleteButton", "");
         deleteElement(id);
+    } else {
+        let node = event.target.parentNode.className == "editButton" ? event.target.parentNode : event.target
+        if (node.className == "editButton") {
+            var id = node.id;
+            id = id.replace("editButton", "");
+            editElement(id);
+        }
     }
 }
 
@@ -65,15 +72,6 @@ function deleteElement(id) {
     let deleteItem = document.getElementById(`${id}`);
     if (confirm("Удалить заметку?")) {
         deleteItem.remove();
-    }
-}
-
-document.onclick = function(event) {
-    let node = event.target.parentNode.className == "editButton" ? event.target.parentNode : event.target
-    if (node.className == "editButton") {
-        var id = node.id;
-        id = id.replace("editButton", "");
-        editElement(id);
     }
 }
 
