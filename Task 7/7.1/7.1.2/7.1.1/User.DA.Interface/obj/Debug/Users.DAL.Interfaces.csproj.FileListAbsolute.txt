@@ -1,0 +1,13 @@
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\bin\Debug\User.DA.Interface.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\bin\Debug\User.DA.Interface.pdb
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\bin\Debug\User.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\bin\Debug\User.pdb
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\obj\Debug\Users.DAL.Interfaces.csprojAssemblyReference.cache
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\obj\Debug\Users.DAL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\obj\Debug\Users.DAL.Interfaces.csproj.CopyComplete
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\obj\Debug\User.DA.Interface.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\obj\Debug\User.DA.Interface.pdb
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\bin\Debug\Award.Entites.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User.DA.Interface\bin\Debug\Award.Entites.pdb

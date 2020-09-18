@@ -1,0 +1,11 @@
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\bin\Debug\User.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\bin\Debug\User.pdb
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\bin\Debug\Newtonsoft.Json.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\bin\Debug\Newtonsoft.Json.xml
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\obj\Debug\User.Entities.csproj.CoreCompileInputs.cache
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\obj\Debug\User.Entities.csproj.CopyComplete
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\obj\Debug\User.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\obj\Debug\User.pdb
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\bin\Debug\Award.Entites.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\bin\Debug\Award.Entites.pdb
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\User\obj\Debug\User.Entities.csprojAssemblyReference.cache

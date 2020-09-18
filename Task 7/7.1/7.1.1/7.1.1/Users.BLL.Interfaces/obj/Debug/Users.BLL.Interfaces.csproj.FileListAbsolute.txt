@@ -1,0 +1,11 @@
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\bin\Debug\Users.BLL.Interfaces.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\bin\Debug\Users.BLL.Interfaces.pdb
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\bin\Debug\User.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\bin\Debug\User.pdb
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\obj\Debug\Users.BLL.Interfaces.csprojAssemblyReference.cache
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\obj\Debug\Users.BLL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\obj\Debug\Users.BLL.Interfaces.csproj.CopyComplete
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\obj\Debug\Users.BLL.Interfaces.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\obj\Debug\Users.BLL.Interfaces.pdb
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\bin\Debug\Award.Entites.dll
+C:\Sharp\Task 7\7.1\7.1.1\7.1.1\Users.BLL.Interfaces\bin\Debug\Award.Entites.pdb
